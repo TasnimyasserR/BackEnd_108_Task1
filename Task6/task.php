@@ -1,16 +1,16 @@
 <?php
 
 $users = [
-    ['id' => 1, 'firstName' => 'John', 'lastName' => 'Doe', 'salary' => 4500, 'email' => 'john.doe@example.com', 'isActive' => 0],
-    ['id' => 2, 'firstName' => 'Jane', 'lastName' => 'Smith', 'salary' => 7500, 'email' => 'jane.smith@example.com', 'isActive' => 1],
-    ['id' => 3, 'firstName' => 'Alice', 'lastName' => 'Johnson', 'salary' => 11000, 'email' => 'alice.johnson@example.com', 'isActive' => 1],
-    ['id' => 4, 'firstName' => 'Bob', 'lastName' => 'Brown', 'salary' => 3000, 'email' => 'bob.brown@example.com', 'isActive' => 0],
-    ['id' => 5, 'firstName' => 'Eve', 'lastName' => 'Williams', 'salary' => 8500, 'email' => 'eve.williams@example.com', 'isActive' => 1],
-    ['id' => 6, 'firstName' => 'Charlie', 'lastName' => 'Davis', 'salary' => 7000, 'email' => 'charlie.davis@example.com', 'isActive' => 0],
-    ['id' => 7, 'firstName' => 'David', 'lastName' => 'Wilson', 'salary' => 5000, 'email' => 'david.wilson@example.com', 'isActive' => 1],
-    ['id' => 8, 'firstName' => 'Grace', 'lastName' => 'Martinez', 'salary' => 9500, 'email' => 'grace.martinez@example.com', 'isActive' => 0],
-    ['id' => 9, 'firstName' => 'Frank', 'lastName' => 'Anderson', 'salary' => 8000, 'email' => 'frank.anderson@example.com', 'isActive' => 1],
-    ['id' => 10, 'firstName' => 'Helen', 'lastName' => 'White', 'salary' => 12000, 'email' => 'helen.white@example.com', 'isActive' => 1],
+    ['id' => 1, 'firstName' => 'Sama', 'lastName' => 'Mohammed', 'salary' => 4500, 'email' => 'sama.mohammed@gmail.com', 'isActive' => 0],
+    ['id' => 2, 'firstName' => 'Tasnim', 'lastName' => 'Ali', 'salary' => 7500, 'email' => 'Tasnim.Ali@gmail.com', 'isActive' => 1],
+    ['id' => 3, 'firstName' => 'Rofyda', 'lastName' => 'Khaled', 'salary' => 11000, 'email' => 'Rofyda.Khaled@gmail.com', 'isActive' => 1],
+    ['id' => 4, 'firstName' => 'Omar', 'lastName' => 'Yasser', 'salary' => 3000, 'email' => 'Omar.Yasser@gmail.com', 'isActive' => 0],
+    ['id' => 5, 'firstName' => 'Mohammed', 'lastName' => 'Omar', 'salary' => 8500, 'email' => 'Mohammed.Omar@gmail.com', 'isActive' => 1],
+    ['id' => 6, 'firstName' => 'Ahmed', 'lastName' => 'Maged', 'salary' => 7000, 'email' => 'Ahmed.Maged@gmail.com', 'isActive' => 0],
+    ['id' => 7, 'firstName' => 'Yasser', 'lastName' => 'Omar', 'salary' => 5000, 'email' => 'Yasser.Omar@gmail.com', 'isActive' => 1],
+    ['id' => 8, 'firstName' => 'Ali', 'lastName' => 'Mohammed', 'salary' => 9500, 'email' => 'Ali.Mohammed@gmail.com', 'isActive' => 0],
+    ['id' => 9, 'firstName' => 'Ashraf', 'lastName' => 'Ahmed', 'salary' => 8000, 'email' => 'Ashraf.Ahmed@gmail.com', 'isActive' => 1],
+    ['id' => 10, 'firstName' => 'Khaled', 'lastName' => 'Sherif', 'salary' => 12000, 'email' => 'Khaled.Sherif@gmail.com', 'isActive' => 1],
 ];
 
 
